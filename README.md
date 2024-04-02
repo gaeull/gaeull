@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 
 <!-- Github Status -->
 <h3>Github Status</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=gaeull&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeull&layout=compact&theme=dark" />
+|<img src="https://github-readme-stats.vercel.app/api?username=gaeull&show_icons=true&theme=radical" />||<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeull&layout=compact&theme=dark" />|
     
 </div>
 
