@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3>주요 프로젝트</h3>
 
 |[![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=factoryvision&repo=backend)](https://github.com/factoryvision/backend)||[![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Fish-dectection&repo=backend-repo)](https://github.com/Fish-dectection/backend-repo)|
-|:----:|:----:|
+
 
 
 
