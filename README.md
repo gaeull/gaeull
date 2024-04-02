@@ -29,6 +29,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
 </div>
 
+<div align="center">
+    <h3>주요 프로젝트</h3>
+    [![](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark_dimmed&username=gaeull&repo=factoryvision)](https://github.com/gaeull/factoryvision)
+</div>
+
 <!-- Github Status -->
 <div align="center">
     <h3>Github Status</h3>
