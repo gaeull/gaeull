@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
 
-<h3>주요 프로젝트</h3>
+<!--<h3>주요 프로젝트</h3>-->
 
 <!-- |[![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=gaeull&repo=factoryvision)](https://github.com/gaeull/factoryvision)||[![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=gaeull&repo=Fish-species-detection-system)](https://github.com/gaeull/Fish-species-detection-system)| -->
 
