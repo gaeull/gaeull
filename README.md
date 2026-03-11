@@ -24,12 +24,16 @@
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/RDBMS-0052CC?style=for-the-badge">
 
+<br />
+
 <h3>주요 프로젝트</h3>
 
 | Organization Project | Personal Project |
 |----------------------|----------------------|
 | [![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=Fish-Dectection&repo=backend-repo)](https://github.com/Fish-Dectection/backend-repo) | [![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=gaeull&repo=emo-que)](https://github.com/gaeull/emo-que) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=factoryvision&repo=factoryvision-backend)](https://github.com/factoryvision/factoryvision-backend) | |
+| [![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=factoryvision&repo=factoryvision-backend)](https://github.com/factoryvision/factoryvision-backend) | [![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=gaeull&repo=msa-onpremise-sample)](https://github.com/gaeull/msa-onpremise-sample) |
+
+<br />
 
 <h3>Github Status</h3>
 
